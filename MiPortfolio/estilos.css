@@ -101,9 +101,7 @@ header{
 .card img{
     width: 100%;
 }
-.card a, footer a {
-    color: white;
-}
+
 
 .red-social{
     height: 60px;
