@@ -66,8 +66,9 @@ header{
     padding-right: 20%;
 }
 .aptitudes{
-    
+    background-color: #ffffff;
     width: 50%;
+    border-radius: 20px;
 }
 .tech-list{
     display: flex;
@@ -77,10 +78,12 @@ header{
 
 .tech{
     height: 90px;
+    margin: 10px;
 }
 
 .tres{
-    background-image: url(images/796841.webp);
+    /* background-image: url(images/796841.webp); */
+    background-color: #424242;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;   
@@ -102,6 +105,7 @@ header{
     border: solid #F2F2F2 1px;
     border-radius: 10px;
     padding: 10px;
+    margin: 10px;
 }
 .card img{
     width: 100%;
